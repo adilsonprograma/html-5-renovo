@@ -24,7 +24,7 @@ Também contém:
 ## 🖥️ Tecnologias Utilizadas
 
 - **HTML5**
-- Estrutura semântica (`header`, `nav`, `main`, `footer`)
+- Estrutura semântica (`header`, `div`, `main`, `footer`)
 - Formulários HTML
 - Tabelas
 - Elementos multimídia (imagem)
